@@ -312,8 +312,7 @@ dependencies = [
 [[package]]
 name = "bevy_2d_line"
 version = "0.1.3"
-source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "26d33a816552682b072ec68650eadb1df663559a1da1894c8d3db6caef4f02bc"
+source = "git+https://github.com/scvalex/bevy_2d_line.git#da95442fccd50fb741b11b3157c8c3dd05847310"
 dependencies = [
  "bevy",
 ]
