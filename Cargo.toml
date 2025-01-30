@@ -5,4 +5,4 @@ edition = "2021"
 
 [dependencies]
 bevy = "0.15.1"
-bevy_2d_line = { git = "https://github.com/scvalex/bevy_2d_line.git" }
+bevy_2d_line = "0.1"
